@@ -17,7 +17,7 @@ export default function Hero() {
 
                 <div className="flex justify-center">
                     <img
-                        src="images/illustration.jpg"
+                        src="/images/illustration.jpg"
                         alt="Web development illustration"
                         className="rounded-xl shadow-lg border border-white/20 md:mt-16 sm:mt-10"
                     />
