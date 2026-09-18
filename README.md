@@ -135,7 +135,7 @@ I enjoy turning ideas and designs into clean, functional, and responsive web exp
 
 **GitHub:** https://github.com/mehreenkhurshid
 
-**LinkedIn:** Coming soon
+**LinkedIn:** https://www.linkedin.com/in/mehreen-khurshid-9023562b6
 
 ## 📌 Project Status
 

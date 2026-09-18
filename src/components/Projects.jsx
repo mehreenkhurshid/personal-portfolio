@@ -10,19 +10,19 @@ export default function Projects() {
             title: "FlowTask Dashboard",
             desc: "A modern and responsive task management dashboard for organizing tasks and tracking project progress.",
             img: "/images/flowtask.png",
-            link: "#"
+            link: "https://flowtask-dashboard.vercel.app/"
         },
         {
             title: "Mini Ecommerce",
             desc: "A modern and responsive e-commerce interface with product browsing, product details, and a clean shopping experience.",
             img: "/images/website.png",
-            link: "#"
+            link: "https://mini-ecommerce-ebon.vercel.app/"
         },
         {
             title: "Personal Portfolio",
             desc: "A modern and responsive portfolio website showcasing my skills, projects, and UI development expertise.",
             img: "/images/Portfolio.png",
-            link: "#"
+            link: "https://personal-portfolio-jade-seven-38.vercel.app/"
         }
     ];
 
@@ -50,6 +50,8 @@ export default function Projects() {
                             <p className="text-gray-600 mb-4 flex-grow">{project.desc}</p>
                             <a
                                 href={project.link}
+                                target="_blank"
+                                rel="noopener noreferrer"
                                 className="inline-block px-4 py-2 bg-orange-500 text-white font-bold rounded-md hover:bg-orange-400 transition"
                             >
                                 View Project
