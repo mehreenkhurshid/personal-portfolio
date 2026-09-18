@@ -10,19 +10,19 @@ export default function Projects() {
             title: "FlowTask Dashboard",
             desc: "A modern and responsive task management dashboard for organizing tasks and tracking project progress.",
             img: "/images/flowtask.png",
-            link: "https://flowtask-dashboard.vercel.app/"
+            link: "flowtask-dashboard.vercel.app"
         },
         {
             title: "Mini Ecommerce",
             desc: "A modern and responsive e-commerce interface with product browsing, product details, and a clean shopping experience.",
             img: "/images/website.png",
-            link: "https://mini-ecommerce-ebon.vercel.app/"
+            link: "mini-ecommerce-ebon.vercel.app"
         },
         {
             title: "Personal Portfolio",
             desc: "A modern and responsive portfolio website showcasing my skills, projects, and UI development expertise.",
             img: "/images/Portfolio.png",
-            link: "https://personal-portfolio-jade-seven-38.vercel.app/"
+            link: "personal-portfolio-jade-seven-38.vercel.app"
         }
     ];
 
