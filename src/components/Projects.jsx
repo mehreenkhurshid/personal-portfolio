@@ -4,25 +4,25 @@ export default function Projects() {
             title: "FoodEase Website",
             desc: "A modern and responsive food ordering website with a clean interface for browsing food and categories.",
             img: "/images/foodease.png",
-            link: "#"
+            link: "https://foodease-eight.vercel.app/"
         },
         {
             title: "FlowTask Dashboard",
             desc: "A modern and responsive task management dashboard for organizing tasks and tracking project progress.",
             img: "/images/flowtask.png",
-            link: "flowtask-dashboard.vercel.app"
+            link: "https://flowtask-dashboard.vercel.app/"
         },
         {
             title: "Mini Ecommerce",
             desc: "A modern and responsive e-commerce interface with product browsing, product details, and a clean shopping experience.",
             img: "/images/website.png",
-            link: "mini-ecommerce-ebon.vercel.app"
+            link: "https://mini-ecommerce-ebon.vercel.app/"
         },
         {
             title: "Personal Portfolio",
             desc: "A modern and responsive portfolio website showcasing my skills, projects, and UI development expertise.",
             img: "/images/Portfolio.png",
-            link: "personal-portfolio-jade-seven-38.vercel.app"
+            link: "https://personal-portfolio-jade-seven-38.vercel.app/"
         }
     ];
 
